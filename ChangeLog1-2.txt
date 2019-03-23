@@ -1,22 +1,18 @@
-{"version_code":451209,"content":"
+{"version_code":451210,"content":"
+<p>اصـدار: 9.95</p>
+<p>V9.95</p>
 <br/>
-<li> سيتم خلال الساعات القادمة إطلاق التحديث الجديد  </li>
+<li> تحديث اجباري لتفادي انتهاء النسخة</li>
 <br/>
-<li> لاتقلقوا بخصوص إنتهاء الواتساب سيتم تجديده في التحديث القادم</li>
+<li> تمديد صلاحية النسخة</li>
 <br/>
-<li>في حال إطلاق التحديث الجديد سيتم اشعاركم بذلك فوراً</li>
+<li>اصلاحات اخرى</li>
 <br/>
-<li>شكراً لأنتظاركم</li>
+<li> A mandatory update to avoid the expiration of the version</li>
 <br/>
-<li> The new update will be launched in the coming hours</li>
+<li> Extend the validity of the version</li>
 <br/>
-<li> Do not worry about the expiration message</li>
-<br/>
-<li> If the new update is launched, you will be notified immediately</li>
-<br/>
-<li> Thanks for your waiting</li>
+<li> Many Other Fixes</li>
 
 
-","url":""
-}
-
+","url":"https://www.azmods.co/2018/06/AZWhatsApp-A.html"
