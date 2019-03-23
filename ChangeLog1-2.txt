@@ -1,30 +1,18 @@
 {"version_code":451210,"content":"
-<p>تحديث جديد لواتساب أضواء العين</p>
-<p>إصـدار التحديث الجديد: 1.2</p>
+<p>اصـدار: 9.95</p>
+<p>V9.95</p>
 <br/>
-<li>مميزات التحديث الجديد</li>
-<br/>
-<li>تحديث إجباري لتفادي إنتهاء النسخة</li>
+<li> تحديث اجباري لتفادي انتهاء النسخة</li>
 <br/>
 <li> تمديد صلاحية النسخة</li>
 <br/>
-<li>إصلاحات اخرى</li>
-<br/>
-<li>لتحميل التحديث الجديد يرجئ الضغط بالأسفل على معلومات اكثر ومن ثم الضغط على المستطيل الأخضر للتحميل</li>
-<br/>
-<li>Update new WhatsApp AThwa Alain</li>
-<br/>
-<li>New update version: 1.2</li>
-<br/>
-<li>New update features</li>
+<li>اصلاحات اخرى</li>
 <br/>
 <li> A mandatory update to avoid the expiration of the version</li>
 <br/>
 <li> Extend the validity of the version</li>
 <br/>
 <li> Many Other Fixes</li>
-<br/>
-<li>To download the update please click on the button below for more information and then click on the green rectangle to download</li>
 
 
 ","url":"https://www.mediafire.com/file/5cc2byzajovmfm7/AThwaWhatsApp_v1.2.apk"
