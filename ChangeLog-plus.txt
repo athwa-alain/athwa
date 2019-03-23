@@ -1,21 +1,31 @@
 {"version_code":451210,"content":"
+<p>تحديث جديد لواتساب أضواء العين</p>
+<p>إصـدار التحديث الجديد: 1.2</p>
 <br/>
-<li> سيتم خلال الساعات القادمة إطلاق التحديث الجديد  </li>
+<li>مميزات التحديث الجديد</li>
 <br/>
-<li> لاتقلقوا بخصوص رسالة إنتهاء الواتساب سيتم تجديده في التحديث القادم</li>
+<li>تحديث إجباري لتفادي إنتهاء النسخة</li>
 <br/>
-<li>في حال إطلاق التحديث الجديد سيتم اشعاركم بذلك فوراً</li>
+<li> تمديد صلاحية النسخة</li>
 <br/>
-<li>شكراً لأنتظاركم</li>
+<li>إصلاحات اخرى</li>
 <br/>
-<li> The new update will be launched in the coming hours</li>
+<li>لتحميل التحديث الجديد يرجئ الضغط بالأسفل على معلومات اكثر ومن ثم الضغط على المستطيل الأخضر للتحميل</li>
 <br/>
-<li> Do not worry about the expiration message</li>
+<li>Update new WhatsApp AThwa Alain</li>
 <br/>
-<li> If the new update is launched, you will be notified immediately</li>
+<li>New update version: 1.2</li>
 <br/>
-<li> Thanks for your waiting</li>
+<li>New update features</li>
+<br/>
+<li> A mandatory update to avoid the expiration of the version</li>
+<br/>
+<li> Extend the validity of the version</li>
+<br/>
+<li> Many Other Fixes</li>
+<br/>
+<li>To download the update please click on the button below for more information and then click on the green rectangle to download</li>
 
 
-","url":""
+","url":"https://www.mediafire.com/file/5cc2byzajovmfm7/AThwaWhatsApp_v1.2.apk"
 }
