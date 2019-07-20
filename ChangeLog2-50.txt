@@ -1,7 +1,12 @@
-{"version_code":451214,"content":"
+{"version_code":451215,"content":"
 <strong><p>=======================</p></strong>
 <strong><p>===خبر مهم===</p></strong>
-<strong><p>عادت خدمة الواتساب من جديد بعد ان كانت متوقفة لساعات</p></strong>
-<li>اخيراً نأسف لأزعاجكم - دمتم في حفظ الله -</li>
+<strong><p>يمكنكم متابعة تحديثات واتساب أضواء العين أول بأول عبر موقعنا </p></strong>
+<li>يمكنكم زيارة موقعنا بالضغط بالأسفل يسار الشاشة على كلمة معلومات أكثر</li>
+<strong><p>=======================</p></strong>
+<strong><p>===Important news===</p></strong>
+<strong><p>You can follow whatsapp and update our eye lights first-on-site via our website</p></strong>
+<li>You can visit our website by clicking on the bottom left of the screen on the word more information</li>
+
 ","url":"https://athwamods.blogspot.com"
 }
