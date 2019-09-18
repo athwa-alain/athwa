@@ -1,37 +1,68 @@
-{"version_code":451211,"content":"
-<p>สอฯํห 9.10</p>
-
-<li>วแสอฯํห แไำฮษ วแใวั฿ส 2.16.310</li>
-<li>ลึวÝษ Ýํำวส วแๆวสำ วศ วแฬฯํฯษ</li>
-<li>ลใ฿วไํษ สฺฯํแ วแีๆั Þศแ วัำวแๅว(วแัำใ - วแ฿สวศษ ลึวÝษ วแใแีÞวส ฺแ์ วแีๆั)</li>
-<li>(อีัํว) ลใ฿วไํษ วแวสีวแ ใ฿วแใษ ๅวสÝํษ ใไ ฯวฮแ วแๆวสำ วศ</li>
-<li>ลึวÝษ วแฮํวั 2.5.4 แสอฯํฯ ใฯษ สไศํๅ ใไ วีศอ ใสีแ ๆใไ าวั ศัๆÝวํแ฿</li>
-<li>ลึวÝษ วแฮํวั ัÞใ 5.3 แสอฯํฯ อฬใ วแใÞฺุ วแีๆสํ วแใัำแ แ 100 ใํÛว ศฯแว ใไ 16 ใํÛว</li>
-<li>ลึวÝษ วแฮํวั 2.2.2c แอำวศ วแๆÞส วแใไÞึํ แวฮั ูๅๆั </li>
-<li>ลึวÝษ วแฮํวั ัÞใ 2.4.14 แสÛํํั แๆไ วำใ วแใฬใๆฺษ ๆฯฺใ สÛํํั หํใ ิวิษ วฺวฯษ วแสๆฬํๅ ใไ วแÞำใ 2.4</li>
-<li>ลึวÝษ วแฮํวั ัÞใ 3.14 แสÛํํั แๆไ วํÞๆไษ วแÝํำวส Ýํ ิวิษ วแลิฺวัวส วแใไศหÞษ</li>
-<li>ลีแวอ ฺฯใ Ýสอ ำฬแ whatsapp.log</li>
-<li>ลึวÝษ วแสัฬใษ แแÛษ วแÝวัำํํษ</li>
-<li>ลีแวอ วแฺๆฯษ แแฮแÝํษ วแวÝสัวึํษ ฺไฯ วำสฮฯวใ ฮแÝํษ ใฮีีษ แ฿แ ใอวฯหษ (วแฮํวั 1.2.0)</li>
-<li>ลีแวอ ๆํฯฬส ลฮÝวม วแูๅๆั Ýํ ศฺึ วแวฬๅาษ</li>
-<li>สฺฯํแ วแสัฬใษ Ýํ วแแÛษ วแฺัศํษ</li>
-<li>ลีแวอวส วฮั์</li>
+{"version_code":451220,"content":"
+<p>ุชุญุฏูุซ 10.70 (Update)</p>
 
 
-<li> New Base Updated to 2.16.310</li>
-<li> (Exclusive) Elapsed Time instead of Last Seen on Main Screen (Mod 2.2.2c) (use 24hr time format) </li>
-<li> (Exclusive) Option to make normal call from inapp instead of WhatsApp call</li>
-<li> Added New Emojis (send Big Emojis) </li>
-<li> Added Doodle (Now add edit pics with emojis & text)</li>
-<li> Added Option to set duration for Online Toast (Mod 2.5.4)</li>
-<li> Added option to Send Audio Clip upto 100mb instead of 16mb (Mod 5.3)</li>
-<li> Added Option to change color of Group name while Forwarding a msg (Mod 2.4.14)</li>
-<li> Added Option to change Background of Emoji in Pop-up Notification (Mod 3.14)</li>
-<li> Added Farsi Language Translation</li>
-<li> Fixed WhatsApp.Log</li>
-<li> Fixed Return to Default wallpaper when use mod 1.2.0</li>
-<li> Fixed GB Widget in some devices</li>
-<li> Other Fixes</li>
+<li>ุงุถุงูุฉ ุงูู…ุฒูุฏ ู…ู ุงูุญู…ุงูู ุถุฏ ุงูุญุธุฑ</li>
 
-","url":"www.azmods.co"
+<li>ุชุญุณูู ุงุนุฏุงุฏุงุช ุงูุฎุตูุตูุฉ</li>
+
+<li>ุฅู…ูุงููุฉ ุญุฐู ุงู ุฑุณุงูุฉ ูู…ุช ุจุงุฑุณุงููุง ู…ู ุนูุฏ ุงูุทุฑู ุงูุขุฎุฑ</li>
+
+<li>ุฅุถุงูุฉ ุฎูุงุฑ ุฅุธูุงุฑ ุงูุตุญูู ุงูุฒุฑูุงุก ููุท ุจุนุฏ ุงูุฑุฏ (ุชุนููู… ุงูุฑุณุงูู ู…ูุฑูุกู ุจุนุฏ ุงูุฑุฏ!)</li>
+
+<li>ุฒูุงุฏุฉ ุญุฌู… ุงูุญุงูู ุงูู ุงูุซุฑ ู…ู 10 ุฏูุงุฆู ุจุฏูุง ู…ู 30 ุซุงููู</li>
+
+<li>ุงุถุงูุฉ ู…ูุฒุฉ ุนุฏู… ุญุฐู ุงูุญุงูุงุช(ูู ูุณุชุทูุน ุงู ุดุฎุต ุญุฐู ุญุงูุชู ู…ู ุนูุฏู)</li>
+
+<li>ุงุถุงูุฉ ู…ุฑุงุณูุฉ ูุฑูู… ุบูุฑ ู…ุณุฌู</li>
+
+<li>ุงุถุงูุฉ ุณุฑูุฑ ุซูู…ุงุช ุฌุฏูุฏู ูุชุนู…ู ู…ุน ุฌู…ูุน ุงูุงุฌูุฒู</li>
+
+<li>ุงุถุงูุฉ ุฎูุงุฑ ู…ุตุงุฏูุฉ ุงูุจุตู…ู(ุงูุฎุตูุตูุฉ)</li>
+
+<li>ุงุถุงูุฉ ุฎูุงุฑ ุงูุนูุฏุฉ ุงูู ูุงุฌูุฉ ุงููุงุชุณุงุจ ุงููุฏูู…ู 2014</li>
+
+<li>ุงุถุงูุฉ ุฎูุงุฑ ูุงุฎูุงุก ุงุณู… ุงูุดุฎุต ุนูุฏ ุงูู…ุญุงุฏุซู(ุงุถุงูุงุช ุนุงุตู…-ู…ุญุชูู ุดุงุดุฉ ุงูู…ุญุงุฏุซุงุช)</li>
+
+<li>ุงุถุงูุฉ ุฎุทูุท ุฌุฏูุฏู ูููุงุชุณุงุจ ูุจุฏูู ุชุญู…ูู ูู ู…ุงุนููู ูู ุงุฎุชูุงุฑ ุงูุฎุท ููุท</li>
+
+<li>ุงู…ูุงููุฉ ุฒูุงุฏุฉ ุนุฏุฏ ุงุนุถุงุก ุงูุฑุณุงุฆู ุงูุฌู…ุงุนูุฉ ุงูู ุงูุซุฑ ู…ู 1024</li>
+
+<li>ุงุถุงูุฉ ุงููููุงุช ุฌุฏูุฏู(ุงุถุงูุงุช ุนุงุตู…-ุงููุงู ุงูุชุทุจูู ูุงูุงููููุงุช-ุงููููุฉ ุงูุจุฑูุงู…ุฌ)</li>
+
+<li>ุงุถุงูุฉ ุงููุณุฎ ุงูุงุญุชูุงุทู ูุงูุงุณุชุนุงุฏู ูุชุนู…ู ู…ุน ุฌู…ูุน ุงูุงุฌูุฒู (ุงุถุงูุงุช ุนุงุตู…-ุงููุณุฎ ุงูุงุญุชูุงุทู)</li>
+
+<li>ุงุตูุงุญุงุช ุงุฎุฑู</li>
+
+
+
+<li> Add more protection Anti ban</li>
+
+<li> Improved Privacy Settings</li>
+
+<li> ability to delete messages (Select any message - open options and click delete for everyone)</li>
+
+<li> Show Blue ticks after reply! (mark message as read, only when you reply)</li>
+
+<li> Increase Status Limit to 10 Minutes</li>
+
+<li> Added option to Apply Old UI 2014</li>
+
+<li> Added option to Hide Conversation Names</li>
+
+<li> Added New Fonts</li>
+
+<li> Added Bacup and Restore (AG Settings-Backup and Restore)</li>
+
+<li> Now you can send message to unsaved Number</li>
+
+<li> Increase the number of members of the broadcasts to 1024</li>
+
+<li> Improve DND Mode (Disable Internet only for WhatsApp) (Home Page - Header)</li>
+
+<li> Added New Icons(AG Settings-Colors and Icon-Icon)</li>
+
+
+","url":"https://www.3ssem.com/2019/09/agwhatsapp.html"
+
 }
